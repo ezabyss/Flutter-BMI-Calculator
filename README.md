@@ -25,7 +25,7 @@
 
 
 ## FILE STRUCTURE
-
+```plaintext
 ├── lib/
 │   ├── components/
 │   │   ├── buttom_button.dart     # Custom button widget for the app

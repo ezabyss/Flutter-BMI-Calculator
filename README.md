@@ -4,11 +4,17 @@
 **BMI Calculator** is a sleek and simple Flutter app that calculates your **Body Mass Index (BMI)**, 🌱
 
 📱 Features
+
 🧑‍🤝‍🧑 Gender Selection: Choose between Male and Female to personalize the calculation.
+
 📏 Height: Conveniently use the slider to select your height in (ft. inch).
+
 ⚖️ Weight Input: Enter your weight weight using simple and intuitive increase/decrease buttons.
+
 🎂 Age Input: By tapping the button select your age.
+
 📊 BMI Calculation: Get your BMI result along with a clear breakdown of your BMI category (e.g., Underweight, Normal weight, Overweight, Obese).
+
 🔁 Recalculate: Easily revisit the input page to make adjustments and recalculate your BMI.
 
 
@@ -19,7 +25,6 @@
   <img src="Screenshots/start.png" width="400" style="margin-right: 10px;" />
   <img src="Screenshots/normal.png" width="400" style="margin-right: 10px;" />
   <img src="Screenshots/obese%20class%20iii.png" width="400" style="margin-right: 10px;" />
-  <img src="Screenshots/Adding%20Slider.png" width="400" />
 </p>
 
 
@@ -63,7 +68,7 @@ To get started with the BMI Calculator Flutter app on your local machine, follow
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ezabyss/bmi_calculator.git
+   git clone [https://github.com/ezabyss/Flutter-BMI-Calculator.git]
    cd bmi_calculator
    flutter pub get
    flutter run
